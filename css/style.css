@@ -1,5 +1,15 @@
+html, body {
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
 header{
 	background-color: blue;
+	height: 250px;
+}
+
+.logo{
+	margin: 10px -10px 10px 10px;
 }
 
 ul{
@@ -7,26 +17,67 @@ ul{
 }
 
 nav a{
+	display: block;
+	margin: -75px -50px 40px 200px;
 	text-decoration: none;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	letter-spacing: 2px;
+	letter-spacing: 1px;
 	font-size: 15px;
+	
 }
 
 .building-img{
 	width: 100%;
-	max-width: 600px;
+	max-width: 645px;
+	height: 375px;
 	object-fit: cover;
 	display: block;
 	margin: auto;
-	margin-top: -75px;
+	margin-top: -120px;
+	margin-left: 200px;
 }
 
-.center {
-	text-align: center;
+.p {
+	margin: 0px 200px;
 }
 
 nav li{
 	display: inline-block;
+	width: 130px;
+}
+
+.Rectangle-92{
+	width: 100%;
+	max-width: 120px;
+	height: 112px;
+	margin: 0px 198px;
+}
+
+.Rectangle-93{
+	width: 100%;
+	max-width: 120px;
+	height: 112px;
+	margin: -116px 329px 100px;
+}
+
+.Rectangle-94{
+	width: 100%;
+	max-width: 120px;
+	height: 112px;
+	margin:-250px 460px 118px;
+}
+
+.Rectangle-95{
+	width: 100%;
+    max-width: 120px;
+    height: 112px;
+    margin: -250px 592px 136px;
+}
+
+.Rectangle-96{
+	width: 100%;
+    max-width: 120px;
+    height: 112px;
+    margin: -252px 724px 162px;
 }
