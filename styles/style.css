@@ -1,11 +1,17 @@
 html, body {
 	max-width: 100%;
 	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+.logo {
+	filter: invert(100%);
 }
 
 header{
 	background-color: blue;
-	height: 250px;
+	height: 240px;
 }
 
 .logo{
@@ -14,17 +20,17 @@ header{
 
 ul{
 	list-style-type: none;
+
 }
 
 nav a{
 	display: block;
-	margin: -75px -50px 40px 200px;
+	margin: -75px -50px 30px 250px;
 	text-decoration: none;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 15px;
-	
 }
 
 .building-img{
@@ -34,12 +40,12 @@ nav a{
 	object-fit: cover;
 	display: block;
 	margin: auto;
-	margin-top: -120px;
-	margin-left: 200px;
+	margin-top: -110px;
+	margin-left: 221px;
 }
 
 .p {
-	margin: 0px 200px;
+	margin: 0px 221px;
 }
 
 nav li{
@@ -51,33 +57,33 @@ nav li{
 	width: 100%;
 	max-width: 120px;
 	height: 112px;
-	margin: 0px 198px;
+	margin: 0px 219px;
 }
 
 .Rectangle-93{
 	width: 100%;
 	max-width: 120px;
 	height: 112px;
-	margin: -116px 329px 100px;
+	margin: -116px 350px 100px;
 }
 
 .Rectangle-94{
 	width: 100%;
 	max-width: 120px;
 	height: 112px;
-	margin:-250px 460px 118px;
+	margin:-250px 481px 118px;
 }
 
 .Rectangle-95{
 	width: 100%;
     max-width: 120px;
     height: 112px;
-    margin: -250px 592px 136px;
+    margin: -250px 613px 136px;
 }
 
 .Rectangle-96{
 	width: 100%;
     max-width: 120px;
     height: 112px;
-    margin: -252px 724px 162px;
+    margin: -252px 745px 162px;
 }
